@@ -1,4 +1,4 @@
-.. all-saltext.libvirt-events.engines:
+.. all-saltext.libvirt_events.engines:
 
 ______________
 Engine Modules
